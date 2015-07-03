@@ -14,9 +14,9 @@
 
     // Register plugin
     Plugin::register( __FILE__,                    
-                    __('GoogleMaps'),
-                    __('Maps plugin for Monstra.'),  
-                    '1.0.0',
+                    __('Google Maps'),
+                    __('Google Maps plugin for Monstra.'),  
+                    '1.0.1',
                     'Gambi',                 
                     'http://www.gambi.co.za');
   
